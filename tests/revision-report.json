@@ -1,0 +1,428 @@
+{
+  "checkedAt": "2026-11-10 04:41:10 PKT (UTC+05:00)",
+  "checks": 89,
+  "results": [
+    "Role demo cards have been removed",
+    "Password visibility can be toggled",
+    "Sign-in respects native email validation",
+    "Agent dropdown role determines post-login view",
+    "Manager dropdown role determines post-login view",
+    "Admin dropdown role determines post-login view",
+    "Leads table navigates to full lead route",
+    "Leads table back button restores context",
+    "Kanban card navigates to full lead route",
+    "Kanban card back button restores context",
+    "Follow-up lead name navigates to full lead route",
+    "Follow-up lead name back button restores context",
+    "Calling queue navigates to full lead route",
+    "Calling queue back button restores context",
+    "Activity feed navigates to full lead route",
+    "Activity feed back button restores context",
+    "Lead route is bookmarkable and reloadable",
+    "Unknown lead has a friendly full-page empty state",
+    "Role switch from lead page resets to safe workspace",
+    "Agent cannot open another agent’s record",
+    "1600px /dashboard contains page overflow",
+    "1600px /leads contains page overflow",
+    "1600px /pipeline contains page overflow",
+    "1600px /followups contains page overflow",
+    "1600px /workspace contains page overflow",
+    "1600px /team contains page overflow",
+    "1600px /distribution contains page overflow",
+    "1600px /reports contains page overflow",
+    "1600px /integrations contains page overflow",
+    "1600px /settings contains page overflow",
+    "1600px /lead/1048 contains page overflow",
+    "1440px /dashboard contains page overflow",
+    "1440px /leads contains page overflow",
+    "1440px /pipeline contains page overflow",
+    "1440px /followups contains page overflow",
+    "1440px /workspace contains page overflow",
+    "1440px /team contains page overflow",
+    "1440px /distribution contains page overflow",
+    "1440px /reports contains page overflow",
+    "1440px /integrations contains page overflow",
+    "1440px /settings contains page overflow",
+    "1440px /lead/1048 contains page overflow",
+    "1024px /dashboard contains page overflow",
+    "1024px /leads contains page overflow",
+    "1024px /pipeline contains page overflow",
+    "1024px /followups contains page overflow",
+    "1024px /workspace contains page overflow",
+    "1024px /team contains page overflow",
+    "1024px /distribution contains page overflow",
+    "1024px /reports contains page overflow",
+    "1024px /integrations contains page overflow",
+    "1024px /settings contains page overflow",
+    "1024px /lead/1048 contains page overflow",
+    "768px /dashboard contains page overflow",
+    "768px /leads contains page overflow",
+    "768px /pipeline contains page overflow",
+    "768px /followups contains page overflow",
+    "768px /workspace contains page overflow",
+    "768px /team contains page overflow",
+    "768px /distribution contains page overflow",
+    "768px /reports contains page overflow",
+    "768px /integrations contains page overflow",
+    "768px /settings contains page overflow",
+    "768px /lead/1048 contains page overflow",
+    "390px /dashboard contains page overflow",
+    "390px /leads contains page overflow",
+    "390px /pipeline contains page overflow",
+    "390px /followups contains page overflow",
+    "390px /workspace contains page overflow",
+    "390px /team contains page overflow",
+    "390px /distribution contains page overflow",
+    "390px /reports contains page overflow",
+    "390px /integrations contains page overflow",
+    "390px /settings contains page overflow",
+    "390px /lead/1048 contains page overflow",
+    "320px /dashboard contains page overflow",
+    "320px /leads contains page overflow",
+    "320px /pipeline contains page overflow",
+    "320px /followups contains page overflow",
+    "320px /workspace contains page overflow",
+    "320px /team contains page overflow",
+    "320px /distribution contains page overflow",
+    "320px /reports contains page overflow",
+    "320px /integrations contains page overflow",
+    "320px /settings contains page overflow",
+    "320px /lead/1048 contains page overflow",
+    "Table text is comfortably readable",
+    "Dark-mode lead workspace renders rich surfaces",
+    "No errors or failed assets in revision suite"
+  ],
+  "fontResults": [
+    {
+      "width": 1600,
+      "route": "dashboard",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "leads",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "pipeline",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "followups",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "workspace",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "team",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "distribution",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "reports",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "integrations",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "settings",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1600,
+      "route": "lead/1048",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "dashboard",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "leads",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "pipeline",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "followups",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "workspace",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "team",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "distribution",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "reports",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "integrations",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "settings",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1440,
+      "route": "lead/1048",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "dashboard",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "leads",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "pipeline",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "followups",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "workspace",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "team",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "distribution",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "reports",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "integrations",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "settings",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 1024,
+      "route": "lead/1048",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "dashboard",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "leads",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "pipeline",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "followups",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "workspace",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "team",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "distribution",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "reports",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "integrations",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "settings",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 768,
+      "route": "lead/1048",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "dashboard",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "leads",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "pipeline",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "followups",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "workspace",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "team",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "distribution",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "reports",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "integrations",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "settings",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 390,
+      "route": "lead/1048",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "dashboard",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "leads",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "pipeline",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "followups",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "workspace",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "team",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "distribution",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "reports",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "integrations",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "settings",
+      "minTextSize": "12.5px or greater"
+    },
+    {
+      "width": 320,
+      "route": "lead/1048",
+      "minTextSize": "12.5px or greater"
+    }
+  ],
+  "errors": []
+}

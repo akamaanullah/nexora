@@ -1,0 +1,337 @@
+{
+  "checkedAt": "2026-11-10 04:40:31 PKT (UTC+05:00)",
+  "browser": "Headless Google Chrome",
+  "url": "file:///workspace/crm-ui/index.html",
+  "checks": 82,
+  "results": [
+    {
+      "name": "Opens directly from file:// with local fonts/icons",
+      "status": "PASS"
+    },
+    {
+      "name": "Styled role dropdown, email and password fields",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin dashboard renders",
+      "status": "PASS"
+    },
+    {
+      "name": "30-day lead acquisition chart toggle",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead search filters names",
+      "status": "PASS"
+    },
+    {
+      "name": "Status filter returns matching leads",
+      "status": "PASS"
+    },
+    {
+      "name": "Campaign filter combines with status",
+      "status": "PASS"
+    },
+    {
+      "name": "Agent filter works",
+      "status": "PASS"
+    },
+    {
+      "name": "Date filter works in PKT",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead pagination changes page",
+      "status": "PASS"
+    },
+    {
+      "name": "Page-size selector changes table",
+      "status": "PASS"
+    },
+    {
+      "name": "Bulk select tracks all filtered leads",
+      "status": "PASS"
+    },
+    {
+      "name": "Bulk assignment mutates lead owners",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead details show Facebook form answers",
+      "status": "PASS"
+    },
+    {
+      "name": "Comment is added to lead timeline",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead status update mutates pipeline",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead reassignment updates owner",
+      "status": "PASS"
+    },
+    {
+      "name": "Follow-up created and appears in timeline",
+      "status": "PASS"
+    },
+    {
+      "name": "Personalized WhatsApp template preview",
+      "status": "PASS"
+    },
+    {
+      "name": "Simulated call timer runs",
+      "status": "PASS"
+    },
+    {
+      "name": "Simulated call mute toggles",
+      "status": "PASS"
+    },
+    {
+      "name": "Command search cannot interrupt active call",
+      "status": "PASS"
+    },
+    {
+      "name": "Call disposition and notes saved",
+      "status": "PASS"
+    },
+    {
+      "name": "Dedicated Calls tab shows saved disposition",
+      "status": "PASS"
+    },
+    {
+      "name": "Separate Notes tab persists an internal note",
+      "status": "PASS"
+    },
+    {
+      "name": "Comments tab excludes private notes",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead Follow-ups tab shows scheduled task",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead tags can be added",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead tags can be removed",
+      "status": "PASS"
+    },
+    {
+      "name": "Email quick action is a safe local preview",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead stage progress bar updates status",
+      "status": "PASS"
+    },
+    {
+      "name": "Next lead changes the bookmarkable route",
+      "status": "PASS"
+    },
+    {
+      "name": "Browser back restores the previous lead page",
+      "status": "PASS"
+    },
+    {
+      "name": "Lead back button returns to original inbox",
+      "status": "PASS"
+    },
+    {
+      "name": "Kanban drag/drop updates stage and totals",
+      "status": "PASS"
+    },
+    {
+      "name": "Task can be completed",
+      "status": "PASS"
+    },
+    {
+      "name": "Completed task tab renders",
+      "status": "PASS"
+    },
+    {
+      "name": "Full month calendar displays tasks",
+      "status": "PASS"
+    },
+    {
+      "name": "Calendar month navigation works",
+      "status": "PASS"
+    },
+    {
+      "name": "Adding a team member updates cards",
+      "status": "PASS"
+    },
+    {
+      "name": "Round-robin distribution assigns unassigned leads",
+      "status": "PASS"
+    },
+    {
+      "name": "Assignment strategy switch is mutually exclusive",
+      "status": "PASS"
+    },
+    {
+      "name": "Workload configuration saves",
+      "status": "PASS"
+    },
+    {
+      "name": "Mock integration connect changes status",
+      "status": "PASS"
+    },
+    {
+      "name": "Synthetic page can be added",
+      "status": "PASS"
+    },
+    {
+      "name": "Call analytics includes logged call",
+      "status": "PASS"
+    },
+    {
+      "name": "Profile preference is reflected in sidebar",
+      "status": "PASS"
+    },
+    {
+      "name": "Dark mode toggles and persists preference",
+      "status": "PASS"
+    },
+    {
+      "name": "Notifications panel opens",
+      "status": "PASS"
+    },
+    {
+      "name": "Mark all read clears unread indicator",
+      "status": "PASS"
+    },
+    {
+      "name": "Global search respects searchable data",
+      "status": "PASS"
+    },
+    {
+      "name": "Command palette navigates to a matching lead page",
+      "status": "PASS"
+    },
+    {
+      "name": "Agent sidebar hides team and integrations",
+      "status": "PASS"
+    },
+    {
+      "name": "Agent only sees assigned leads",
+      "status": "PASS"
+    },
+    {
+      "name": "Agent cannot reassign leads",
+      "status": "PASS"
+    },
+    {
+      "name": "Agent sees personal performance dashboard",
+      "status": "PASS"
+    },
+    {
+      "name": "Manager gets management without team admin",
+      "status": "PASS"
+    },
+    {
+      "name": "Restricted routes resolve to overview",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /dashboard",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /leads",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /pipeline",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /followups",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /workspace",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /team",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /distribution",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /reports",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /integrations",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /settings",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop route /lead/1048",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /dashboard has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /leads has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /pipeline has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /followups has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /workspace has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /team has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /distribution has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /reports has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /integrations has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /settings has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile route /lead/1048 has no page overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "Mobile sidebar opens",
+      "status": "PASS"
+    },
+    {
+      "name": "No browser console or page errors",
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}

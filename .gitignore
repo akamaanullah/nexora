@@ -1,0 +1,23 @@
+# Optional QA scripts install Puppeteer here. The app itself has no dependencies.
+node_modules/
+
+# OS metadata
+.DS_Store
+**/.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and local scratch
+.idea/
+*.swp
+*.swo
+
+# Logs and coverage
+*.log
+npm-debug.log*
+coverage/
+.nyc_output/
+
+# Generated when the optional browser tests fail (full-page captures).
+tests/failure.png
+tests/revision-failure.png
